@@ -1,4 +1,9 @@
 
+First of all, the primary link for the file that connects the whole file together (index.html) is:
+                        https://aarbin0.github.io/Project-work-/Index.html
+
+Theory:
+
 HTML Tags for
 
 1. Text - div, h1, h2, h3, h4, h5, h6, h7, p, br, hr, b, i, u, sup, sub, 
